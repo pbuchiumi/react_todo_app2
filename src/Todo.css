@@ -21,7 +21,7 @@ background-color: aqua;
 color:white;
 cursor:pointer;  
 }
-
+/* 
 .input-area{
 background-color:aquamarine;
 width: 400px;
@@ -30,7 +30,7 @@ padding: 8px;
 margin:8px;
 border-radius:8px;
 
-}
+} */
 
 .incomplete-area{
 border: 2px solid #aacfd0;
